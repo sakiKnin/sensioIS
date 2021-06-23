@@ -1,0 +1,23 @@
+*, *:befor, *:after{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+    background: #ECEBDA;
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+
+}
+
+
+.btn{
+   color: red;
+   width: 20rem;
+   height: 5rem;
+   padding: 1rem;
+
+}
