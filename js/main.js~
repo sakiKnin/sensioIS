@@ -1,0 +1,6 @@
+function serverCall(){
+
+alert("You have clicked the buitton")
+
+}
+
